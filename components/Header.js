@@ -15,9 +15,13 @@ const Header = () => (
     <Link href="/contentWrapper">
       <a style={linkStyle}>ConentWrapper</a>
     </Link>
-   <Link href="/floatColumnsWholeGrid">
+    <Link href="/floatColumnsWholeGrid">
       <a style={linkStyle}>floatColumnWholeGrid</a>
     </Link>
+    <Link href="/flexboxColumnsEqualHeight">
+      <a style={linkStyle}>flexboxColumnsEqualHeight</a>
+    </Link>
+
 
 
     <style jsx> {`
