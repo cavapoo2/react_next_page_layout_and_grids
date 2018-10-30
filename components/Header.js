@@ -21,6 +21,10 @@ const Header = () => (
     <Link href="/flexboxColumnsEqualHeight">
       <a style={linkStyle}>flexboxColumnsEqualHeight</a>
     </Link>
+    <Link href="/gridLayoutAlignment">
+      <a style={linkStyle}>gridLayoutAlignment</a>
+    </Link>
+
 
 
 
