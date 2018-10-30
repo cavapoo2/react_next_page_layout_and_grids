@@ -24,6 +24,14 @@ const Header = () => (
     <Link href="/gridLayoutAlignment">
       <a style={linkStyle}>gridLayoutAlignment</a>
     </Link>
+    <Link href="/gridLayoutAuto">
+      <a style={linkStyle}>gridLayoutAuto</a>
+    </Link>
+     <Link href="/gridLayoutOrder">
+      <a style={linkStyle}>gridLayoutOrder</a>
+    </Link>
+
+
 
 
 
