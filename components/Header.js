@@ -27,9 +27,21 @@ const Header = () => (
     <Link href="/gridLayoutAuto">
       <a style={linkStyle}>gridLayoutAuto</a>
     </Link>
-     <Link href="/gridLayoutOrder">
+    <Link href="/gridLayoutOrder">
       <a style={linkStyle}>gridLayoutOrder</a>
     </Link>
+    <Link href="/gridLayoutImplicitAutoSparse">
+      <a style={linkStyle}>gridLayoutImplicitAutoSparse</a>
+    </Link>
+    <Link href="/gridLayoutImplicitAutoDense">
+      <a style={linkStyle}>gridLayoutImplicitAutoDense</a>
+    </Link>
+     <Link href="/gridLayoutTemplate">
+      <a style={linkStyle}>gridLayoutTemplate</a>
+    </Link>
+
+
+
 
 
 
