@@ -36,9 +36,13 @@ const Header = () => (
     <Link href="/gridLayoutImplicitAutoDense">
       <a style={linkStyle}>gridLayoutImplicitAutoDense</a>
     </Link>
-     <Link href="/gridLayoutTemplate">
+    <Link href="/gridLayoutTemplate">
       <a style={linkStyle}>gridLayoutTemplate</a>
     </Link>
+    <Link href="/gridTemplateMoreAds">
+      <a style={linkStyle}>gridLayoutTemplateMoreAds</a>
+    </Link>
+
 
 
 
